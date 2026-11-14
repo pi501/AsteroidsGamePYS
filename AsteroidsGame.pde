@@ -1,3 +1,4 @@
+// 
 Spaceship ship = new Spaceship();
 Star [] sky = new Star[100];
 public void keyPressed()
